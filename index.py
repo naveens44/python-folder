@@ -1,3 +1,3 @@
-print("hello world")
-print("naveen")
+print("gunalan")
+print("rakesh")
 print("white")
